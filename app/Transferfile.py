@@ -63,4 +63,5 @@ def receive_file(name,file_name):
     print("File has been recived successufluly")
 
 #eel.start('index.html', size=(1000, 600))
-eel.start('Tfp2p.html', size=(1000, 600))
+#eel.start('Tfp2p.html', size=(1000, 600))
+eel.start('init.html', size=(1000, 600))
